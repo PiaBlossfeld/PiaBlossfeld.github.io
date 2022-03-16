@@ -55,22 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -84,8 +68,8 @@ author:
   avatar           : "profile.png"
   bio              : "I am a sociologist at the University of Innsbruck"
   location         : "Location"
-  employer         :
-  email            :
+  employer         : "University of Innsbruck"
+  email            : "Pia.Blossfeld@uibk.ac.at"
   orcid            : "http://orcid.org/0000-0001-8629-2873"
   
 # Reading Files
