@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pia N. Blossfeld"
 title_separator          : "-"
 name                     : &name "Pia Blossfeld"
-description              : &description "I am a sociologist at the UNiversity of Innsbruck"
+description              : &description "I am a sociologist at the University of Innsbruck"
 url                      : https://piablossfeld.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PiaBlossfeld/PiaBlossfeld.github.io"
@@ -80,43 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Pia N. Blossfeld"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a sociologist at the University of Innsbruck"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
+  orcid            : "http://orcid.org/0000-0001-8629-2873"
+  
 # Reading Files
 include:
   - .htaccess
