@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Academic positions
+
 03/2022 - present    PostDoc, University of Innsbruck (AT)
 
 09/2017 - 03/2022    Assistant Professor,  University of Leipzig (DE)
