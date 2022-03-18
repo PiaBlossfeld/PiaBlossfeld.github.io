@@ -31,5 +31,43 @@ Blossfeld, P. N. (2020). The role of the changing social background composition 
 
 Blossfeld, G. J., Blossfeld, P. N. und Blossfeld, H.-P. (2021). Erwerb der Hochschulzugangsberechtigung über das Gymnasium und den zweiten Bildungsweg. Lesekompetenz im Erwachsenenalter und sozioökonomischer Status beim Berufseinstieg. Zeitschrift für Pädagogik 5: 721-739 [Link](https://www.beltz.de/fachmedien/erziehungswissenschaft/zeitschriften/zeitschrift_fuer_paedagogik.html?tx_beltz_journal[controller]=Journal&tx_beltz_journal[action]=article&tx_beltz_journal%5Barticle%5D=47172&cHash=ccfeed3a71bd4ddc4fbae79b45192425).
 
+**Book Chapters**
+
+Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2016). Changes in Educational Inequality in Cross-National Perspective. In: M. J. Shanahan, J. T. Mortimer and M. K. Johnson (eds.): Handbook of the Life Course. Volume II. Heidelberg: Springer Press, pp. 223-247 [Link](https://link.springer.com/chapter/10.1007/978-3-319-20880-0_10).
+
+Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2017). The Speed of Educational Expansion and Changes in Inequality of Educational Opportunity. In: T. Eckert und B. Gniewosz (eds.): Bildungsgerechtigkeit, Wiesbaden: Springer VS, pp. 77-92 [Link](https://link.springer.com/chapter/10.1007/978-3-658-15003-7_6).
+
+Blossfeld, P. N. (2017). Labour Market Entry Before and After the Financial Crisis in Germany: Duration of Labour Market Entry, Quality of First Job, and Fixed-Term Employment. In: J. Bynner and I. Schoon (eds.): Young People's Development and the Great Recession. Cambridge: Cambridge University Press, pp. 208-232 [Link](https://www.cambridge.org/core/books/abs/young-peoples-development-and-the-great-recession/labor-market-entry-in-germany-before-and-after-the-financial-crisis-an-analysis-of-duration-of-labor-market-entry-quality-of-first-job-and-fixed-term-employment/05D53914D5B4866AE5398A610EB53CCD).
+
+Blossfeld, P. N., Carstensen, C. H. and von Maurice J. (2019). Zertifikatsarmut gleich Kompetenzarmut? Zum Analysepotential des Nationalen Bildungspanels bei Fragen der Bildungsarmut. In: G. Quenzel and K. Hurrelmann (eds.): Handbuch Bildungsarmut. Wiesbaden: VS Verlag für Sozialwissenschaften, pp. 467-489 [Link](https://link.springer.com/chapter/10.1007/978-3-658-19573-1_18).
+
+Blossfeld, G. J., Blossfeld P. N. and Blossfeld H.-P. (2019). A Sociological Perspective of Education as a Lifelong Process. In: R. Becker (ed.): Research Handbook on the Sociology of Education. Cheltenham: Edward Elgar, pp. 18-34 [Link](https://books.google.de/books?hl=de&lr=&id=cgOsDwAAQBAJ&oi=fnd&pg=PA18&dq=pia+blossfeld&ots=1n4yr9056R&sig=lHsjnB8ryT9Mx7NXNVRAFj34bpk#v=onepage&q=pia%20blossfeld&f=false).
+
+Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2021). Soziale Ungleichheit in Bildungs- und Erziehungsprozessen. In: U. Bauer, U.H. Bittlingmayer, and A. Scherr (eds.): Handbuch Bildungs- und Erziehungssoziologie. Wiesbaden: Springer VS [Link](https://link.springer.com/referenceworkentry/10.1007/978-3-658-31395-1_62-1).
+
+Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansion across cohorts and over the life course: An international comparison of (rapid) educational expansion and the consequences of the differentiation of tertiary education in Germany. In: M. Nico and G. Pollock (Eds..): Routledge International Handbook of Contemporary Inequalities and the Life Course. Abingdon-On-Thames: Routledge [Link](https://books.google.de/books?hl=de&lr=&id=UgdUEAAAQBAJ&oi=fnd&pg=PA240&dq=Educational+expansion+across+cohorts+and+over+the+life+course:+An+international+comparison+of+(rapid)+educational+expansion+and+the+consequences+of+the+differentiation+of+tertiary+education+in+Germany.&ots=w5sk6ub1g9&sig=i7nwd_6yIoW_1C9EO208sDR4iXA#v=onepage&q=Educational%20expansion%20across%20cohorts%20and%20over%20the%20life%20course%3A%20An%20international%20comparison%20of%20(rapid)%20educational%20expansion%20and%20the%20consequences%20of%20the%20differentiation%20of%20tertiary%20education%20in%20Germany.&f=false).
+
+**Transfer Publications and Working Papers**
+
+Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2020).: Bildungsexpansion und soziale Ungleichheit. Wie lassen sich die begrenzten Erfolge der Bildungsreformen in Deutschland erklären?, GWP – Gesellschaft. Wirtschaft. Politik 3: 361-374 [Link](https://www.budrich-journals.de/index.php/gwp/article/view/36050).
+
+Blossfeld, P. N. (2018). A note on the Mare model. Arbeitsbericht des Instituts für Soziologie Nr. 76 [Link](https://ul.qucosa.de/api/qucosa:20976/attachment/ATT-0/).
+
+Blossfeld, P. N. (2018). A multidimensional measure of social origin: Theoretical perspectives, operationalization and empirical application in the field of educational inequality research. LIfBi Working Paper No. 73 [Pre-print version](https://www.neps-data.de/Portals/0/Working%20Papers/WP_LXXIII.pdf).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
