@@ -142,7 +142,9 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -185,6 +187,15 @@ defaults:
   - scope:
       path: ""
       type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _contact
+  - scope:
+      path: ""
+      type: contact
     values:
       layout: single
       author_profile: true
