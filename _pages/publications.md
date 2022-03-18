@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Books**
 
-{% include base_path %}
+Blossfeld, P. N. (2014). Neue und alte Ungleichheiten. Inter- und intragenerationale Mobilitätsprozesse von Männern. Opladen: Budrich Verlag [Link](https://shop.budrich.de/produkt/neue-und-alte-soziale-ungleichheiten/?v=3a52f3c22ed6).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Blossfeld, P. N. (2018). Changes in Inequality of Educational Opportunity. The Long-Term Development in Germany. Wiesbaden: Springer Verlag.[Link](https://link.springer.com/book/10.1007/978-3-658-22522-3).
+
+**Refereed Journal Articles**
+
+
+
