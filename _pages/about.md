@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+**Research Interests**
+Sociology of education; stratification, class and mobility; life course research; sociology of labour markets;  sociology of the middle class; sociology of work and occupations; statistical methods; longitudinal methods of social research; cross-national comparisons; welfare regimes
 
-**Academic positions**
+
+
+**Academic Positions**
 
 03/2022 - present |    PostDoc, University of Innsbruck (AT)
 09/2017 - 03/2022 |   Assistant Professor,  University of Leipzig (DE)
