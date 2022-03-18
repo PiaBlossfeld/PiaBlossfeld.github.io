@@ -51,7 +51,7 @@ Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansi
 
 Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2020).: Bildungsexpansion und soziale Ungleichheit. Wie lassen sich die begrenzten Erfolge der Bildungsreformen in Deutschland erklären?, GWP – Gesellschaft. Wirtschaft. Politik 3: 361-374 [Link](https://www.budrich-journals.de/index.php/gwp/article/view/36050).
 
-Blossfeld, P. N. (2018). A note on the Mare model. Arbeitsbericht des Instituts für Soziologie Nr. 76 [Link](https://ul.qucosa.de/api/qucosa:20976/attachment/ATT-0/).
+Blossfeld, P. N. (2018). A note on the Mare model. Arbeitsbericht des Instituts für Soziologie Nr. 76 [Link](https://ul.qucosa.de/api/qucosa%3A20976/attachment/ATT-0/).
 
 Blossfeld, P. N. (2018). A multidimensional measure of social origin: Theoretical perspectives, operationalization and empirical application in the field of educational inequality research. LIfBi Working Paper No. 73 [Pre-print version](https://www.neps-data.de/Portals/0/Working%20Papers/WP_LXXIII.pdf).
 
