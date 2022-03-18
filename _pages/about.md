@@ -25,3 +25,9 @@ redirect_from:
 03/2010 - 08/2010 |    Erasmus, University of Trento (IT)
 10/2007 - 08/2012 |    Diploma in Sociology, University of Bamberg (DE)
 
+
+**Awards**
+
+04/2020 - present | Member of the Young Academy Mainz, Academy of Science and Literature Mainz
+10/2013 - 10/2016 | Doctoral scholarship of the German National Academic Foundation 
+
