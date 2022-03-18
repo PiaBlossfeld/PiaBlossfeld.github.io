@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### Academic positions
+**Academic positions**
 
 03/2022 - present    PostDoc, University of Innsbruck (AT)
 
@@ -18,13 +18,13 @@ redirect_from:
 
 
 
-#### Education
+**Education**
 
 10/2012 – 07/2017 DPhil, Nuffield College, University of Oxford (GB)
 
-09/2015 - 11/2015 Visiting Researcher, Observatoire Sociologique de Changement (OSC), Sciences Po (FR)
+09/2015 - 11/2015 Visiting Researcher, Sciences Po (FR)
 
-09/2014 - 10/2014 Visiting Researcher, Center for Research on Inequalities and the Life Course (CIQLE), Yale University (US)
+09/2014 - 10/2014 Visiting Researcher, Yale University (US)
 
 03/2010 - 08/2010 Erasmus, University of Trento (IT)
 
