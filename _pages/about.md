@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Academic positions
+###### Academic positions
 
 03/2022 - present    PostDoc, University of Innsbruck (AT)
 
@@ -17,7 +17,8 @@ Academic positions
 10/2016 - 08/2017    PostDoc, University of Leipzig (DE)
 
 
-Education
+
+###### Education
 
 10/2012 – 07/2017 DPhil, Nuffield College, University of Oxford (GB)
 
