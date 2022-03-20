@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pia N. Blossfeld"
+title                    : "Dr. Pia N. Blossfeld"
 title_separator          : "-"
-name                     : &name "Pia Blossfeld"
-description              : &description "I am a sociologist at the University of Innsbruck"
+name                     : &name "Dr. Pia Blossfeld"
+description              : &description "PostDoc at the University of Innsbruck"
 url                      : https://piablossfeld.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PiaBlossfeld/PiaBlossfeld.github.io"
