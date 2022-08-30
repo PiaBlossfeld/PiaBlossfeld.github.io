@@ -31,6 +31,8 @@ Blossfeld, P. N. (2020). The role of the changing social background composition 
 
 Blossfeld, G. J., Blossfeld, P. N. und Blossfeld, H.-P. (2021). Erwerb der Hochschulzugangsberechtigung über das Gymnasium und den zweiten Bildungsweg. Lesekompetenz im Erwachsenenalter und sozioökonomischer Status beim Berufseinstieg. *Zeitschrift für Pädagogik 5: 721-739* [Link](https://www.beltz.de/fachmedien/erziehungswissenschaft/zeitschriften/zeitschrift_fuer_paedagogik.html?tx_beltz_journal[controller]=Journal&tx_beltz_journal[action]=article&tx_beltz_journal%5Barticle%5D=47172&cHash=ccfeed3a71bd4ddc4fbae79b45192425).
 
+Blossfeld, P. N. (forthcoming). How do macro- and micro-level changes interact in the emergence of educational outcomes? Sociology Compass.
+
 **Book Chapters**
 
 Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2016). Changes in Educational Inequality in Cross-National Perspective. In: M. J. Shanahan, J. T. Mortimer and M. K. Johnson (eds.): *Handbook of the Life Course. Volume II.* Heidelberg: Springer Press, pp. 223-247 [Link](https://link.springer.com/chapter/10.1007/978-3-319-20880-0_10).
