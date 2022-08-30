@@ -8,11 +8,11 @@ author_profile: true
 
 ## Involvement in the Organisation of Conferences
 
-Akademie für Soziologie Kongress 2021: Cohesive Societies [Link](https://cohesivesocieties.net/)
+2021 | Akademie für Soziologie Kongress: Cohesive Societies [Link](https://cohesivesocieties.net/)
 
 
 ## Co-Organizer of Workshops
 
-Technological Change and Labour Market Opportunities at the Akademie der Wissenschaften und Literatur Mainz 2022 [Link] 
+2022 | Technological Change and Labour Market Opportunities at the Akademie der Wissenschaften und Literatur Mainz [Link] 
 
-Causal Inference in the Social Sciences 2019 [Link](https://home.uni-leipzig.de/~causality/) 
+2019 | Causal Inference in the Social Sciences [Link](https://home.uni-leipzig.de/~causality/) 
