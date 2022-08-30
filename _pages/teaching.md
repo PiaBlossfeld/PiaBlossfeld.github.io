@@ -11,7 +11,7 @@ author_profile: true
 Undergraduate level<br /> Winter term 2022/2023<br /> Time and Date: 14:00-15:45 Tuesday<br /> Room: ZID SOWI Ausbildungsraum 5
 
 ### Reproduction and Change of Social Inequality (Gender Studies)
-Undergraduate level<br /> Winter term 2022/2023<br /> Time and Date: 10:00 Tuesday<br /> Room: Online
+Undergraduate level<br /> Winter term 2022/2023<br /> Time and Date: 10:00-11:30 Tuesday<br /> Room: Online
 
 
 
