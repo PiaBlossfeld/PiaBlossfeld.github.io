@@ -13,6 +13,6 @@ author_profile: true
 
 ## Co-Organizer of Workshops
 
-2022 | Technological Change and Labour Market Opportunities at the Akademie der Wissenschaften und Literatur Mainz [Link] 
+2022 | Technological Change and Labour Market Opportunities at the Akademie der Wissenschaften und Literatur Mainz 
 
 2019 | Causal Inference in the Social Sciences [Link](https://home.uni-leipzig.de/~causality/) 
