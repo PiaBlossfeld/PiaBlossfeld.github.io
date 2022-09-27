@@ -57,7 +57,7 @@ Blossfeld, P. N. (2018). A multidimensional measure of social origin: Theoretica
 
 Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2020).: Bildungsexpansion und soziale Ungleichheit. Wie lassen sich die begrenzten Erfolge der Bildungsreformen in Deutschland erklären?, *GWP – Gesellschaft. Wirtschaft. Politik 3: 361-374* [Link](https://www.budrich-journals.de/index.php/gwp/article/view/36050).
 
-Blossfeld, P. N. and Lengfeld H. (2022). Verängstigt und geschrumpft? Zur Vermessung der Lage der Mittelschicht in Deutschland. *Arbeitsbericht des Instituts für Soziologie Nr. 82* [Link]().
+Blossfeld, P. N. and Lengfeld H. (2022). Verängstigt und geschrumpft? Zur Vermessung der Lage der Mittelschicht in Deutschland. *Arbeitsbericht des Instituts für Soziologie Nr. 82* [Link](https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-807981).
 
 
 
