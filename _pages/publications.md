@@ -50,6 +50,7 @@ Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2021). Soziale Ungleichhei
 Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansion across cohorts and over the life course: An international comparison of (rapid) educational expansion and the consequences of the differentiation of tertiary education in Germany. In: M. Nico and G. Pollock (Eds..): *Routledge International Handbook of Contemporary Inequalities and the Life Course.* Abingdon-On-Thames: Routledge [Link](https://books.google.de/books?hl=de&lr=&id=UgdUEAAAQBAJ&oi=fnd&pg=PA240&dq=Educational+expansion+across+cohorts+and+over+the+life+course:+An+international+comparison+of+(rapid)+educational+expansion+and+the+consequences+of+the+differentiation+of+tertiary+education+in+Germany.&ots=w5sk6ub1g9&sig=i7nwd_6yIoW_1C9EO208sDR4iXA#v=onepage&q=Educational%20expansion%20across%20cohorts%20and%20over%20the%20life%20course%3A%20An%20international%20comparison%20of%20(rapid)%20educational%20expansion%20and%20the%20consequences%20of%20the%20differentiation%20of%20tertiary%20education%20in%20Germany.&f=false).
 
 **Invited Book Reviews**
+
 Blossfeld, P. N. (2023). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Unlgeichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie*. 
 
 **Transfer Publications and Working Papers**
