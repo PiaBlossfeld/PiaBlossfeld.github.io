@@ -24,7 +24,7 @@ Multivariate Analysis with STATA (Undergraduate Level): Fall 2022<br /> Causal I
 
 ### Social Structure, Social Inequality, Social Mobility, and Social Change
 
-Social mobility in Germany, Europe and the US (Undergraduate and Graduate Level): Summer/Fall 2017-2021<br />Educational Systems and Educational Inequality in East and West Germany (Undergraduate Level): Fall 2016<br /> Educational Inequality in International Comparison (Graduate Level): Summer 2017<br />Social Structure Analysis (Undergraduate Level): Fall 2011<br />Social Institutions and Social Change (Undergraduate Level): Summer 2016, 2017, 2018, 2020, 2021<br />Reproduction and Change of Social Inequality (Gender Inequality) (Undergraduate Level): Fall 2022
+Reproduction and Change of Social Inequality (Gender Inequality) (Undergraduate Level): Fall 2022<br />Social mobility in Germany, Europe and the US (Undergraduate and Graduate Level): Summer/Fall 2017-2021<br />Educational Systems and Educational Inequality in East and West Germany (Undergraduate Level): Fall 2016<br /> Educational Inequality in International Comparison (Graduate Level): Summer 2017<br />Social Structure Analysis (Undergraduate Level): Fall 2011<br />Social Institutions and Social Change (Undergraduate Level): Summer 2016, 2017, 2018, 2020, 2021
 
 
 
