@@ -13,7 +13,7 @@ Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The 
 
 **Refereed Journal Articles**
 
-Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160* [Link](Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. European Sociological Review 31: 144-160.).
+Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160* [Link](Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160*
 
 Blossfeld, P. N. (2016). Inequality of Educational Opportunity and Welfare Regimes. *World Studies in Education 17: 53-85* [Link](https://www.ingentaconnect.com/contentone/jnp/wse/2016/00000017/00000002/art00005).
 
@@ -51,7 +51,7 @@ Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansi
 
 **Book Reviews**
 
-Blossfeld, P. N. (forthcoming). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Unlgeichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie*. 
+Blossfeld, P. N. (forthcoming). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Ungleichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie*. 
 
 **Transfer Publications and Working Papers**
 
