@@ -8,10 +8,10 @@ author_profile: true
 ## Current Teaching
 
 ### Multivariate Analysis
-Undergraduate level<br /> Winter term 2022/2023<br /> Time and Date: 14:00-15:45 Tuesday<br /> Room: ZID SOWI Ausbildungsraum 5
+Undergraduate level<br /> Summer 2023<br /> Time and Date: 13:15-14:45 Tuesday<br /> Room: ZID SOWI Ausbildungsraum 2
 
-### Reproduction and Change of Social Inequality (Gender Studies)
-Undergraduate level<br /> Winter term 2022/2023<br /> Time and Date: 10:00-11:30 Tuesday<br /> Room: Online
+### Seminar with Bachelor Thesis
+Undergraduate level<br /> Summer 2023<br /> Time and Date: 8:00-9:30 Tuesday<br /> Room: Seminarraum 6 (SOWI)
 
 
 
