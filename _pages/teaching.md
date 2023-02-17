@@ -33,3 +33,5 @@ Gender Inequality in Education and the Labour Market (Undergraduate Level): Fall
 Saxon Higher Education Teaching Certificate: 2019
 
 Experience in BA-/MA- seminars and lectures
+
+Experience in Supervision and Examination of Bachelor and Master Theses
