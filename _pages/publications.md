@@ -51,7 +51,7 @@ Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansi
 
 **Book Reviews**
 
-Blossfeld, P. N. (2023). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Ungleichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie* [Link](https://link.springer.com/article/10.1007/s11614-023-00516-4).
+Blossfeld, P. N. (2023). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Ungleichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie 48: 145-149* [Link](https://link.springer.com/article/10.1007/s11614-023-00516-4).
 
 **Transfer Publications and Working Papers**
 
