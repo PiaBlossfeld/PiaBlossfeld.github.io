@@ -9,7 +9,7 @@ author_profile: true
 
 Blossfeld, P. N. (2014). *Neue und alte Ungleichheiten. Inter- und intragenerationale Mobilitätsprozesse von Männern.* Opladen: Budrich Verlag [Link](https://shop.budrich.de/produkt/neue-und-alte-soziale-ungleichheiten/?v=3a52f3c22ed6).
 
-Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The Long-Term Development in Germany.* Wiesbaden: Springer Verlag.[Link](https://link.springer.com/book/10.1007/978-3-658-22522-3).
+Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The Long-Term Development in Germany.* Wiesbaden: Springer Verlag [Link](https://link.springer.com/book/10.1007/978-3-658-22522-3).
 
 **Refereed Journal Articles**
 
@@ -31,7 +31,7 @@ Blossfeld, P. N. (2020). The role of the changing social background composition 
 
 Blossfeld, G. J., Blossfeld, P. N. und Blossfeld, H.-P. (2021). Erwerb der Hochschulzugangsberechtigung über das Gymnasium und den zweiten Bildungsweg. Lesekompetenz im Erwachsenenalter und sozioökonomischer Status beim Berufseinstieg. *Zeitschrift für Pädagogik 5: 721-739* [Link](https://www.beltz.de/fachmedien/erziehungswissenschaft/zeitschriften/zeitschrift_fuer_paedagogik.html?tx_beltz_journal[controller]=Journal&tx_beltz_journal[action]=article&tx_beltz_journal%5Barticle%5D=47172&cHash=ccfeed3a71bd4ddc4fbae79b45192425).
 
-Blossfeld, P. N. (2022). How do macro- and micro-level changes interact in the emergence of educational outcomes? *Sociology Compass: e13042* [Link](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13042).
+Blossfeld, P. N. (2023). How do macro- and micro-level changes interact in the emergence of educational outcomes? *Sociology Compass 17: e13042* [Link](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13042).
 
 **Book Chapters**
 
@@ -51,7 +51,7 @@ Blossfeld P. N., Blossfeld G. J. and Blossfeld H.-P. (2022). Educational expansi
 
 **Book Reviews**
 
-Blossfeld, P. N. (forthcoming). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Ungleichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie*. 
+Blossfeld, P. N. (2023). Book Review: Martin Heidenreich (2022): Die doppelte Spaltung Europas. Territoriale und soziale Ungleichheiten als zentrale Herausforderungen der europäischen Integration. *Österreichische Zeitschrift für Soziologie* [Link](https://link.springer.com/article/10.1007/s11614-023-00516-4).
 
 **Transfer Publications and Working Papers**
 
