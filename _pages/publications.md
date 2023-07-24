@@ -11,6 +11,10 @@ Blossfeld, P. N. (2014). *Neue und alte Ungleichheiten. Inter- und intragenerati
 
 Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The Long-Term Development in Germany.* Wiesbaden: Springer Verlag [Link](https://link.springer.com/book/10.1007/978-3-658-22522-3).
 
+**Editorial**
+
+Blossfeld P.N., Pratter M., Uunk W. (2023). Editorial: Gender-specific inequalities in education and the labor market. *Frontiers in Sociology 8:1-4*[Link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1254664/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sociology&id=1254664).
+
 **Refereed Journal Articles**
 
 Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160* [Link](https://academic.oup.com/esr/article-abstract/31/2/144/2367573?login=false)
@@ -32,6 +36,8 @@ Blossfeld, P. N. (2020). The role of the changing social background composition 
 Blossfeld, G. J., Blossfeld, P. N. und Blossfeld, H.-P. (2021). Erwerb der Hochschulzugangsberechtigung über das Gymnasium und den zweiten Bildungsweg. Lesekompetenz im Erwachsenenalter und sozioökonomischer Status beim Berufseinstieg. *Zeitschrift für Pädagogik 5: 721-739* [Link](https://www.beltz.de/fachmedien/erziehungswissenschaft/zeitschriften/zeitschrift_fuer_paedagogik.html?tx_beltz_journal[controller]=Journal&tx_beltz_journal[action]=article&tx_beltz_journal%5Barticle%5D=47172&cHash=ccfeed3a71bd4ddc4fbae79b45192425).
 
 Blossfeld, P. N. (2023). How do macro- and micro-level changes interact in the emergence of educational outcomes? *Sociology Compass 17: e13042* [Link](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13042).
+
+Blossfeld, P.N. (2023). How the rise of academic families across cohorts influences sons’ and daughters’ tertiary education in West Germany? *Frontiers in Education 8: 1154356* [Link](https://www.frontiersin.org/articles/10.3389/feduc.2023.1154356/full).
 
 **Book Chapters**
 
