@@ -13,7 +13,7 @@ Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The 
 
 **Editorial**
 
-Blossfeld P.N., Pratter M., Uunk W. (2023). Editorial: Gender-specific inequalities in education and the labor market. *Frontiers in Sociology 8:1-4*[Link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1254664/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sociology&id=1254664).
+Blossfeld P.N., Pratter M., Uunk W. (2023). Editorial: Gender-specific inequalities in education and the labor market. *Frontiers in Sociology 8:1-4* [Link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1254664/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sociology&id=1254664).
 
 **Refereed Journal Articles**
 
