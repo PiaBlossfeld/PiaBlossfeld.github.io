@@ -7,11 +7,14 @@ author_profile: true
 
 ## Current Teaching
 
-### Multivariate Analysis
-Undergraduate level<br /> Summer 2023<br /> Time and Date: 13:15-14:45 Tuesday<br /> Room: ZID SOWI Ausbildungsraum 2
+### Theory-guided quantitative empirical social and political analysis
+Graduate level<br /> Winter 2023/24<br /> Time and Date: 9:45-11:15 Thursday<br /> Room: ZID SOWI Ausbildungsraum 4
 
-### Seminar with Bachelor Thesis
-Undergraduate level<br /> Summer 2023<br /> Time and Date: 8:00-9:30 Tuesday<br /> Room: Seminarraum 6 (SOWI)
+### Structures and changes in modern societies (German)
+Undergraduate level<br />  Winter 2023/24<br /> Time and Date: 13:15-14:45 Tuesday<br /> Room: Seminarraum 6 (SOWI)
+
+### Structures and changes in modern societies (English)
+Undergraduate level<br />  Winter 2023/24<br /> Time and Date: 11:30-13:00 Tuesday<br /> Room: Seminarraum 6 (SOWI)
 
 
 
@@ -19,7 +22,7 @@ Undergraduate level<br /> Summer 2023<br /> Time and Date: 8:00-9:30 Tuesday<br 
 
 ### Methods Training
 
-Multivariate Analysis with STATA (Undergraduate Level): Fall 2022<br /> Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021
+Multivariate Analysis with STATA (Undergraduate Level): Fall 2022, Summer 2023<br /> Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021<br />Seminar with Bachelor Thesis (Undergraduate Level): Summer 2023
 
 
 ### Social Structure, Social Inequality, Social Mobility, Social Change, Educational Inequality, and Gender Inequality
