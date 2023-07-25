@@ -23,7 +23,7 @@ author_profile: true
 <tbody>
   <tr>
  <td width = "10%">2022</td>
- <td>Technological Change and Labour Market Opportunities (Academy of Science and Literature | Mainz) </td>
+ <td>Technological Change and Labour Market Opportunities (Academy of Science and Literature Mainz) </td>
  </tr>
     <tr>
  <td width = "10%">2019</td>
@@ -38,7 +38,7 @@ author_profile: true
 <tbody>
   <tr>
  <td width = "10%">2023</td>
- <td>Education over the life course (Austrian Youth Conference, University of Innsbruck)</td>
+ <td>Education over the life course (Austrian Youth Conference, Innsbruck)</td>
  </tr>  
 </tbody>
 </table>
@@ -49,7 +49,7 @@ author_profile: true
 <tbody>
   <tr>
  <td width = "10%">2020</td>
- <td>Economic consequences of Covid-19 (Academy of Science and Literature | Mainz)</td>
+ <td>Economic consequences of Covid-19 (Academy of Science and Literature Mainz)</td>
  </tr>  
 </tbody>
 </table>
