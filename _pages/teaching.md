@@ -22,7 +22,7 @@ Undergraduate level<br />  Winter 2023/24<br /> Time and Date: 11:30-13:00 Thurs
 
 ### Methods Training
 
-Multivariate Analysis with STATA (Undergraduate Level): Fall 2022, Summer 2023<br /> Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021<br />Seminar with Bachelor Thesis (Undergraduate Level): Summer 2023
+Multivariate Analysis with STATA (Undergraduate Level): Fall 2022, Summer 2023<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Seminar with Bachelor Thesis (Undergraduate Level): Summer 2023<br /> Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021<br />Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021
 
 
 ### Social Structure, Social Inequality, Social Mobility, Social Change, Educational Inequality, and Gender Inequality
