@@ -13,7 +13,7 @@ author_profile: true
    <tr>
  <td width = "10%">2021</td>
  <td>Akademie für Soziologie Kongress: Cohesive Societies
-   <a href = https://cohesivesocieties.net/>Link</a></td>
+   <a href = "https://cohesivesocieties.net/">Link</a></td>
  </tr>
 </tbody>
 </table>
@@ -28,7 +28,7 @@ author_profile: true
     <tr>
  <td width = "10%">2019</td>
  <td>Causal Inference in the Social Sciences
-   <a href = https://home.uni-leipzig.de/~causality/>Link</a></td>
+   <a href = "https://home.uni-leipzig.de/~causality/">Link</a></td>
  </tr>
 </tbody>
 </table>
