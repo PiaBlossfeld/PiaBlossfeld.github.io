@@ -39,6 +39,9 @@ Blossfeld, P. N. (2023). How do macro- and micro-level changes interact in the e
 
 Blossfeld, P.N. (2023). How the rise of academic families across cohorts influences sons’ and daughters’ tertiary education in West Germany? *Frontiers in Education 8: 1154356* [Link](https://www.frontiersin.org/articles/10.3389/feduc.2023.1154356/full).
 
+Blossfeld, P. N. (forthcoming). Integrating intercohort changes in the composition of social origin into OED triangle research: A literature review and an outlook for future research. *Sociology Compass*.
+
+
 **Book Chapters**
 
 Blossfeld, P. N., Blossfeld, G. J. and Blossfeld, H.-P. (2016). Changes in Educational Inequality in Cross-National Perspective. In: M. J. Shanahan, J. T. Mortimer and M. K. Johnson (eds.): *Handbook of the Life Course. Volume II.* Heidelberg: Springer Press, pp. 223-247 [Link](https://link.springer.com/chapter/10.1007/978-3-319-20880-0_10).
