@@ -39,7 +39,7 @@ Blossfeld, P. N. (2023). How do macro- and micro-level changes interact in the e
 
 Blossfeld, P.N. (2023). How the rise of academic families across cohorts influences sons’ and daughters’ tertiary education in West Germany? *Frontiers in Education 8: 1154356* [Link](https://www.frontiersin.org/articles/10.3389/feduc.2023.1154356/full).
 
-Blossfeld, P. N. (forthcoming). Integrating intercohort changes in the composition of social origin into OED triangle research: A literature review and an outlook for future research. *Sociology Compass e13153* [Link] (https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13153).
+Blossfeld, P. N. (forthcoming). Integrating intercohort changes in the composition of social origin into OED triangle research: A literature review and an outlook for future research. *Sociology Compass e13153* [Link](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13153).
 
 
 **Book Chapters**
