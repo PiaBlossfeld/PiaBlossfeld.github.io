@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Involvement in the Organisation of Conferences
+**Involvement in the Organisation of Conferences**
 
 <table>
 <tbody>
@@ -18,7 +18,7 @@ author_profile: true
 </tbody>
 </table>
 
-## Co-Organizer of Workshops
+**Co-Organizer of Workshops**
 <table>
 <tbody>
      <tr>
@@ -37,7 +37,7 @@ author_profile: true
 </tbody>
 </table>
 
-## Panel Chair/ Session Organizer at Conferences
+**Panel Chair/ Session Organizer at Conferences**
 <table>
 <tbody>
     <tr>
@@ -53,7 +53,7 @@ author_profile: true
 </table>
 
 
-## Invited Expert at Round table
+**Invited Expert at Round table**
 <table>
 <tbody>
   <tr>
