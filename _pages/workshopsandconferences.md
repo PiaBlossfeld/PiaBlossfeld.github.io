@@ -27,7 +27,7 @@ author_profile: true
  </tr>
   <tr>
  <td width = "10%">2022</td>
- <td>Technological change and labour market opportunities (Academy of Science and Literature Mainz, germany) </td>
+ <td>Technological change and labour market opportunities (Academy of Science and Literature Mainz, Germany) </td>
  </tr>
     <tr>
  <td width = "10%">2019</td>
