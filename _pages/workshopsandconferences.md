@@ -10,6 +10,11 @@ author_profile: true
 
 <table>
 <tbody>
+    <tr>
+ <td width = "10%">2025</td>
+ <td>ESPAnet Austria Conference (University of Innsbruck, Austria)
+   <a href = "https://cohesivesocieties.net/">Link</a></td>
+ </tr>
    <tr>
  <td width = "10%">2021</td>
  <td>Akademie für Soziologie Kongress: Cohesive societies (University of Leipzig, Germany)
