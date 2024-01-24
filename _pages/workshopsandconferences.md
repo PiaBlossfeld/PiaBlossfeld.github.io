@@ -58,12 +58,16 @@ author_profile: true
 </table>
 
 
-**Invited Expert at Round table**
+**Public Outreach**
 <table>
 <tbody>
   <tr>
  <td width = "10%">2020</td>
  <td>Economic consequences of Covid-19 (Academy of Science and Literature Mainz, Germany)</td>
  </tr>  
+ <tr>
+ <td width = "10%">2020</td>
+ <td>Long night of Science (Leipzig University, Germany)</td>
+ </tr> 
 </tbody>
 </table>
