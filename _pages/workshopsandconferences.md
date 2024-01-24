@@ -67,7 +67,7 @@ author_profile: true
  </tr>  
  <tr>
  <td width = "10%">2020</td>
- <td>Long night of Science (Leipzig University, Germany)</td>
+ <td>Long Night of Science (Leipzig University, Germany)</td>
  </tr> 
 </tbody>
 </table>
