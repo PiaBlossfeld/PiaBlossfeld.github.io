@@ -7,15 +7,8 @@ author_profile: true
 
 ## Current Teaching
 
-### Theory-guided quantitative empirical social and political analysis
-Graduate level<br /> Winter 2023/24<br /> Time and Date: 9:45-11:15 Thursday<br /> Room: ZID SOWI Ausbildungsraum 4
-
-### Structures and changes in modern societies 
-Undergraduate level<br />  Winter 2023/24<br /> Time and Date: 13:15-14:45 Thursday<br /> Room: Seminarraum 6 (SOWI)
-
-### Structures and changes in modern societies
-Undergraduate level<br />  Winter 2023/24<br /> Time and Date: 11:30-13:00 Thursday<br /> Room: Seminarraum 6 (SOWI)
-
+### Multivariate Analysis with STATA
+Undergraduate level<br /> Summer 2024<br /> Time and Date: 11:30-13:00 Thursday<br /> Room: ZID SOWI Ausbildungsraum 4
 
 
 ## Previous Teaching
