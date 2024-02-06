@@ -10,7 +10,7 @@ redirect_from:
 
 **Research Interests**
 
-Sociology of education; stratification, class and mobility; social change; life course research; sociology of labour markets; sociology of work and occupations; sociology of the middle class; gender inequality; homogamy; statistical methods; longitudinal methods of social research; cross-national comparisons; welfare regimes
+Sociology of education; stratification, class and mobility; social structure and social change; life course research; sociology of labour markets; sociology of work and occupations; sociology of the middle class; gender inequality; homogamy; statistical methods; longitudinal methods of social research; cross-national comparisons; welfare regimes
 
 
 
