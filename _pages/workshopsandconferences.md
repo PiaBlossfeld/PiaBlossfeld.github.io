@@ -61,10 +61,6 @@ author_profile: true
 **Public Outreach**
 <table>
 <tbody>
-<tr>
- <td width = "10%">2024</td>
- <td>Long Night of Science (University of Innsbruck, Austria)</td>
- </tr>  
   <tr>
  <td width = "10%">2020</td>
  <td>Economic consequences of Covid-19, Round table discussion (Academy of Science and Literature Mainz, Germany)</td>
