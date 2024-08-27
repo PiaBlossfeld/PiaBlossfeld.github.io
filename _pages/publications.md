@@ -20,7 +20,7 @@ Blossfeld P.N., Pratter M. and Uunk W. (2023). Editorial: Gender-specific inequa
 
 **Refereed Journal Articles**
 
-Blossfeld, P. N., Katrňák, T. and Manea B.C. (forthcoming). Parental educational homogamy and children's educational attainment. *Comparative Population Studies*.
+Blossfeld, P. N., Katrňák, T. and Manea B.C. (2024). Parental educational homogamy and children's educational attainment. *Comparative Population Studies 49: 243-272* [Link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/600/414).
 
 Blossfeld, P. N. (2024). Integrating intercohort changes in the composition of social origin into OED triangle research: A literature review and an outlook for future research. *Sociology Compass e13153* [Link](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13153).
 
