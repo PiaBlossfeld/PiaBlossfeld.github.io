@@ -44,7 +44,7 @@ Blossfeld, P. N. (2018). Social background and between-track mobility in the gen
 
 Blossfeld, P. N. (2016). Inequality of Educational Opportunity and Welfare Regimes. *World Studies in Education 17: 53-85* [Link](https://www.ingentaconnect.com/contentone/jnp/wse/2016/00000017/00000002/art00005).
 
-Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160* [Link](https://academic.oup.com/esr/article-abstract/31/2/144/2367573?login=false)
+Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion and Inequalities in Educational Opportunity: Long Term Changes for East and West Germany. *European Sociological Review 31: 144-160* [Link](https://academic.oup.com/esr/article-abstract/31/2/144/2367573?login=false).
 
 **Book Chapters**
 
