@@ -26,6 +26,11 @@ author_profile: true
 **Co-Organizer of Workshops**
 <table>
 <tbody>
+    <tr>
+ <td width = "10%">2024</td>
+ <td>Fertility  (Euregio collaborative seminar between the Universities of Trento and Bozen, Italy and the University of Innsbruck, Austria) </td>
+ </tr>
+<tbody>
      <tr>
  <td width = "10%">2024</td>
  <td>Education, family and employment over the life course  (Euregio collaborative seminar between the University of Trento, Italy and the University of Innsbruck, Austria) </td>
