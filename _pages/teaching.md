@@ -11,7 +11,7 @@ author_profile: true
 Graduate level<br /> Fall 2024/25<br /> Time and Date: 8:00-9:30 Monday<br /> Room: ZID SOWI Ausbildungsraum 4
 
 ### Structures and Changes in Modern Societies (Undergraduate Level, Language: German)
-Undergraduate level<br /> Fall 2024/25<br /> Time and Date: 9:45-11:15:00 Monday<br /> Room: Seminarraum 6
+Undergraduate level<br /> Fall 2024/25<br /> Time and Date: 9:45-11:15 Monday<br /> Room: Seminarraum 6
 
 ### Structures and Changes in Modern Societies (Undergraduate Level, Language: English)
 Undergraduate level<br /> Fall 2024/25<br /> Time and Date: 11:30-13:00 Monday<br /> Room: Seminarraum 6
