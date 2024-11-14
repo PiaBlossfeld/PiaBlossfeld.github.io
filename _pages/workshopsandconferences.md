@@ -24,6 +24,7 @@ author_profile: true
 </table>
 
 **Co-Organizer of Workshops**
+
 <table>
 <tbody>
     <tr>
@@ -48,6 +49,7 @@ author_profile: true
 </table>
 
 **Panel Chair/ Session Organizer at Conferences**
+
 <table>
 <tbody>
     <tr>
