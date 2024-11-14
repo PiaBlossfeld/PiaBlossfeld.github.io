@@ -10,15 +10,11 @@ author_profile: true
     <tbody>
         <tr>
             <td width="10%">2025</td>
-            <td>ESPAnet Austria Conference (University of Innsbruck, Austria)
-                <a href="https://www.wu.ac.at/sozialpolitik/espanet-austria/jaehrliche-forschungskonferenzen/">Link</a>
-            </td>
+            <td>ESPAnet Austria Conference (University of Innsbruck, Austria)</td>
         </tr>
         <tr>
             <td width="10%">2021</td>
-            <td>Akademie für Soziologie Kongress: Cohesive societies (University of Leipzig, Germany)
-                <a href="https://cohesivesocieties.net/">Link</a>
-            </td>
+            <td>Akademie für Soziologie Kongress: Cohesive societies (University of Leipzig, Germany) </td>
         </tr>
     </tbody>
 </table>
@@ -40,9 +36,7 @@ author_profile: true
         </tr>
         <tr>
             <td width="10%">2019</td>
-            <td>Causal inference in the social sciences (University of Leipzig, Germany)
-                <a href="https://home.uni-leipzig.de/~causality/">Link</a>
-            </td>
+            <td>Causal inference in the social sciences (University of Leipzig, Germany) </td>
         </tr>
     </tbody>
 </table>
