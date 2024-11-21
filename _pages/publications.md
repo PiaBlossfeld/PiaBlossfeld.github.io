@@ -14,7 +14,7 @@ Blossfeld, P. N. (2014). *Neue und alte Ungleichheiten. Inter- und intragenerati
 
 **Editorial**
 
-Blossfeld P. N., Scherer S. and Uunk W. (forthcoming). Editorial: Changes in educational homogamy and its consequences. *Comparative Population Studies*.
+Blossfeld P. N., Scherer S. and Uunk W. (2024). Editorial: Changes in educational homogamy and its consequences. *Comparative Population Studies* [Link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/620).
 
 Blossfeld P.N., Pratter M. and Uunk W. (2023). Editorial: Gender-specific inequalities in education and the labor market. *Frontiers in Sociology 8:1-4* [Link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1254664/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sociology&id=1254664).
 
