@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+If you have trouble accessing any of my articles or would like to have additional information, feel free to contact me anytime!
 
 **Books**
 
