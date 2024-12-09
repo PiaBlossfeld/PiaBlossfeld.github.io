@@ -21,7 +21,7 @@ Blossfeld P.N., Pratter M. and Uunk W. (2023). Editorial: Gender-specific inequa
 
 **Refereed Journal Articles**
 
-Uunk, W. and Blossfeld, P. (*forthcoming*). Gender-specific development of mathematics and language performance in lower secondary education in Germany. *Zeitschrift für Bildungsforschung*.
+Uunk, W. and Blossfeld, P. (2024). Gender-specific development of mathematics and language performance in lower secondary education in Germany. *Zeitschrift für Bildungsforschung* [Link](https://link.springer.com/article/10.1007/s35834-024-00457-2).
 
 Blossfeld, P. N., Katrňák, T. and Manea B.C. (2024). Parental educational homogamy and children's educational attainment. *Comparative Population Studies 49: 243-272* [Link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/600/414).
 
