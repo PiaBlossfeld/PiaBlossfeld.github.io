@@ -51,7 +51,7 @@ Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion 
 
 **Book Chapters**
 
-Blossfeld P. N., Lengfel H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): *Wirtschaft und soziale Ungleichheit*. Wiesbaden: Springer VS.
+Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): *Wirtschaft und soziale Ungleichheit*. Wiesbaden: Springer VS.
 
 Blossfeld P. N., Carstensen, C. H. and von Maurice J. (2025). Zertifikatsarmut gleich Kompetenzarmut? Zum Analysepotential des Nationalen Bildungspanels bei Fragen der Bildungsarmut. In: G. Quenzel and K. Hurrelmann (Eds.): *Handbuch Bildungsarmut*. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
