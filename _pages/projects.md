@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Past Projects
+# Past Projects
 ## Changing middle class: A comparison of Germany and the USA
 
 Principal investigator: Prof. Holger Lengfeld <br /> Co-Principal Investigator: Dr. Pia Blossfeld<br /> Project researcher: Florian Kley<br /> Project duration: 01.01.2021-01.03.2025<br /> Funding agency: German Research Foundation (DFG)
