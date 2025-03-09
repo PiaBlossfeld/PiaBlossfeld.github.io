@@ -7,8 +7,11 @@ author_profile: true
 
 ## Changing middle class: A comparison of Germany and the USA
 
-Principal investigators: Prof. Holger Lengfeld and Dr. Pia Blossfeld<br /> Project researcher: Florian Kley<br /> Project duration: 01.01.2021-01.01.2025<br /> Funding agency: German Research Foundation (DFG)
+Principal investigator: Prof. Holger Lengfeld <br /> Co-Principal Investigator: Dr. Pia Blossfeld<br /> Project researcher: Florian Kley<br /> Project duration: 01.01.2021-01.03.2025<br /> Funding agency: German Research Foundation (DFG)
 
 Project description:
 In recent years, many economic and sociological studies have diagnosed a shrinkage of the German middle class. This empirical finding has generated wide public resonance and is therefore of great political concern. Yet, a review of the current empirical literature shows contradictory findings on the development of the middle class, questioning the conclusion that the middle class is shrinking. The aim of this research project is to reassess the different methodological approaches that have been applied and examine how far the middle class has changed since German unification, whether there has been more intragenerational upward than downward mobility into and from the middle class, and whether changes of the labour market, female employment and family composition have influenced these processes. In order to better evaluate the development of the German middle class and its mechanisms, we aim to compare it with middle class developments in the U.S. For our analyses, we rely on longitudinal household data from the German Socio-Economic Panel (SOEP) and the Panel Study of Income Dynamics (PSID).
 [Further information](https://gepris.dfg.de/gepris/projekt/444730212?context=projekt&task=showDetail&id=444730212&)
+
+Project outcomes:
+Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): Wirtschaft und soziale Ungleichheit. Wiesbaden: Springer VS
