@@ -20,6 +20,7 @@ Blossfeld P. N., Scherer S. and Uunk W. (2024). Editorial: Changes in educationa
 Blossfeld P.N., Pratter M. and Uunk W. (2023). Editorial: Gender-specific inequalities in education and the labor market. *Frontiers in Sociology 8: 1-4* [Link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1254664/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sociology&id=1254664).
 
 **Refereed Journal Articles**
+
 Katrňák, T., Blossfeld, P. and Doseděl T. (*forthcoming*). Is the gender-gap reversal a feedback loop? Demographic factors influencing gender-gap inequalities in tertiary education in European countries. *Research in Social Stratification and Mobility*.
 
 Uunk, W. and Blossfeld, P. (2024). Gender-specific development of mathematics and language performance in lower secondary education in Germany. *Zeitschrift für Bildungsforschung* [Link](https://link.springer.com/article/10.1007/s35834-024-00457-2).
