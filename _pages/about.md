@@ -25,11 +25,14 @@ Sociology of education; stratification, class and mobility; social structure and
 **Education**
 
 10/2012 – 07/2017 |    DPhil, Nuffield College, University of Oxford (GB)
-09/2015 - 11/2015 |    Visiting Researcher, Sciences Po (FR)
-09/2014 - 10/2014 |    Visiting Researcher, Yale University (US)
 03/2010 - 08/2010 |    Erasmus, University of Trento (IT)
 10/2007 - 08/2012 |    Diploma in Sociology, University of Bamberg (DE)
 
+**Research Stays**
+04/2025           |    Visiting Researcher, Masaryk University (CZ)
+12/2024           |    Visiting Researcher, GESIS (DE)
+09/2015 - 11/2015 |    Visiting Researcher, Sciences Po (FR)
+09/2014 - 10/2014 |    Visiting Researcher, Yale University (US)
 
 **Awards**
 
