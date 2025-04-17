@@ -44,6 +44,18 @@ author_profile: true
 <h2>Panel Chair/ Session Organizer at Conferences</h2>
 <table>
     <tbody>
+         <tr>
+            <td width="10%">2025</td>
+            <td>Women and Gender (ESPAnet Conference, Innsbruck, Austria)
+                <a href="https://www.wu.ac.at/en/institute-for-social-policy/espanet-austria/regelmaessige-forschungskonferenzen">Link</a>
+            </td>
+        </tr>
+        <tr>
+            <td width="10%">2025</td>
+            <td>Demografic Change (ESPAnet Conference, Innsbruck, Austria)
+                <a href="https://www.wu.ac.at/en/institute-for-social-policy/espanet-austria/regelmaessige-forschungskonferenzen">Link</a>
+            </td>
+        </tr>
         <tr>
             <td width="10%">2024</td>
             <td>Changing inequalities in international comparison (European Social Survey Conference, Lisbon, Portugal)
