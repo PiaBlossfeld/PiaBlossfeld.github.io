@@ -21,7 +21,7 @@ Blossfeld P.N., Pratter M. and Uunk W. (2023). Editorial: Gender-specific inequa
 
 **Refereed Journal Articles**
 
-Katrňák, T., Blossfeld, P. and Doseděl T. (*forthcoming*). Is the gender-gap reversal a feedback loop? Demographic factors influencing gender-gap inequalities in tertiary education in European countries. *Research in Social Stratification and Mobility*.
+Katrňák, T., Blossfeld, P. and Doseděl T. (2025). Is the gender-gap reversal a feedback loop? Demographic factors influencing gender-gap inequalities in tertiary education in European countries. *Research in Social Stratification and Mobility* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000319?via%3Dihub).
 
 Uunk, W. and Blossfeld, P. (2024). Gender-specific development of mathematics and language performance in lower secondary education in Germany. *Zeitschrift für Bildungsforschung* [Link](https://link.springer.com/article/10.1007/s35834-024-00457-2).
 
