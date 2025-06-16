@@ -14,3 +14,5 @@ Project description:<br /> In recent years, many economic and sociological studi
 [Further information](https://gepris.dfg.de/gepris/projekt/444730212?context=projekt&task=showDetail&id=444730212&)
 
 Publications:<br /> Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): Wirtschaft und soziale Ungleichheit. Wiesbaden: Springer VS [Link](https://link.springer.com/content/pdf/10.1007/978-3-658-46565-0.pdf#page=47).
+
+Special Issue in *Intenrational Sociology* is in preparation...
