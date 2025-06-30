@@ -55,7 +55,7 @@ Blossfeld P. N., Blossfeld G. and Blossfeld H.-P. (2015). Educational Expansion 
 
 Blossfeld P. N. and Nennstiel R. (2025). Längsschnittliche Bildungsforschung. Theoretische Grundlagen, Konstrukte und Instrumente, statistische Verfahren und Datensätze. In: T. Drope, S. Reh and K. Maaz (Eds.): *Bildungsungleichheit als Gegenstand der Bildungsforschung*. Münster: Waxmann Verlag. [Link](https://www.waxmann.com/buecher/Bildungsungleichheit-als-Gegenstand-der-Bildungsforschung).
 
-Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): *Wirtschaft und soziale Ungleichheit*. Wiesbaden: Springer VS [Link](https://link.springer.com/content/pdf/10.1007/978-3-658-46565-0.pdf#page=47).
+Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpft? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): *Wirtschaft und soziale Ungleichheit*. Wiesbaden: Springer VS [Link](https://link.springer.com/content/pdf/10.1007/978-3-658-46565-0.pdf#page=47).
 
 Blossfeld P. N., Carstensen, C. H. and von Maurice J. (2025). Zertifikatsarmut gleich Kompetenzarmut? Zum Analysepotential des Nationalen Bildungspanels bei Fragen der Bildungsarmut. In: G. Quenzel and K. Hurrelmann (Eds.): *Handbuch Bildungsarmut*. Wiesbaden: VS Verlag für Sozialwissenschaften. [Link](https://link.springer.com/rwe/10.1007/978-3-658-44698-7_11-1).
 
