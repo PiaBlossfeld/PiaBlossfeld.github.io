@@ -7,15 +7,18 @@ author_profile: true
 
 ## Current Teaching
 
-### Multivariate Analysis with R (Undergraduate Level)
-Undergraduate level<br /> Summer 2025<br /> Time and Date: 8:00-9:30 Thursday<br /> Room: ZID SOWI Ausbildungsraum 4
+### PS Strukturen und Wandel moderner Gesellschaften (Undergraduate Level)
+Undergraduate level<br /> Winter 2025/26<br /> Time and Date: 15:00-16:30 Wednesday<br /> Room: Seminarraum EG005/3 (Grauer Bär)
+
+### SE Theoriegeleitete quantitative empirische Sozial- und Politikanalyse (Graduate Level)
+Graduate level<br /> Winter 2025/26<br /> Time and Date: 13:15-14:45 Wednesday<br /> Room: ZID SOWI Ausbildungsraum 2
 
 
 ## Previous Teaching
 
 ### Methods Training
 
-Theory-Guided Quantitative Empirical Social and Political Analysis in STATA/R (Graduate Level): Fall 2023, 2024<br /> Multivariate Analysis with STATA (Undergraduate Level): Fall 2022, Summer 2023, 2024<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Seminar with Bachelor Thesis (Undergraduate Level): Summer 2023<br /> Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021<br />Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021
+Theory-Guided Quantitative Empirical Social and Political Analysis in STATA/R (Graduate Level): Fall 2023, 2024<br /> Multivariate Analysis with STATA/R (Undergraduate Level): Fall 2022, Summer 2023, 2024, 2025<br /> Empirical Research Seminar (Undergraduate Level): Summer 2020<br />Seminar with Bachelor Thesis (Undergraduate Level): Summer 2023<br /> Methods and Theories of International Comparisons (Graduate Level): Summer 2018, 2021<br />Causal Inference in the Social Sciences (Graduate Level): Fall 2017-2021
 
 
 ### Social Structure, Social Inequality, Social Mobility, Social Change, Educational Inequality, and Gender Inequality
