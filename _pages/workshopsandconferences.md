@@ -73,6 +73,12 @@ author_profile: true
 <table>
     <tbody>
         <tr>
+            <td width="10%">2025</td>
+            <td>Wissenschaftsbotschafterin at the OEAD
+             <a href="https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/706">Link</a>
+            </td>
+        </tr>
+        <tr>
             <td width="10%">2020</td>
             <td>Economic consequences of Covid-19, Round table discussion (Academy of Science and Literature Mainz, Germany)</td>
         </tr>
