@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Workshops, Conferences and Public Outreach"
-permalink: /workshops-conferences-and-public-outreach/
+permalink: /workshopsconferencesandpublicoutreach/
 author_profile: true
 ---
 
