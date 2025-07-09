@@ -19,28 +19,6 @@ author_profile: true
     </tbody>
 </table>
 
-<h2>Co-Organizer of Workshops</h2>
-<table>
-    <tbody>
-        <tr>
-            <td width="10%">2024/25</td>
-            <td>Fertility (Euregio collaborative seminar between the Universities of Trento and Bozen, Italy and the University of Innsbruck, Austria)</td>
-        </tr>
-        <tr>
-            <td width="10%">2023/24</td>
-            <td>Education, family and employment over the life course (Euregio collaborative seminar between the University of Trento, Italy and the University of Innsbruck, Austria)</td>
-        </tr>
-        <tr>
-            <td width="10%">2022</td>
-            <td>Technological change and labour market opportunities (Academy of Science and Literature Mainz, Germany)</td>
-        </tr>
-        <tr>
-            <td width="10%">2019</td>
-            <td>Causal inference in the social sciences (University of Leipzig, Germany) </td>
-        </tr>
-    </tbody>
-</table>
-
 <h2>Panel Chair/ Session Organizer at Conferences</h2>
 <table>
     <tbody>
@@ -65,6 +43,28 @@ author_profile: true
         <tr>
             <td width="10%">2023</td>
             <td>Education over the life course (Austrian Youth Conference, Innsbruck, Austria)</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Co-Organizer of Workshops</h2>
+<table>
+    <tbody>
+        <tr>
+            <td width="10%">2024/25</td>
+            <td>Fertility (Euregio collaborative seminar between the Universities of Trento and Bozen, Italy and the University of Innsbruck, Austria)</td>
+        </tr>
+        <tr>
+            <td width="10%">2023/24</td>
+            <td>Education, family and employment over the life course (Euregio collaborative seminar between the University of Trento, Italy and the University of Innsbruck, Austria)</td>
+        </tr>
+        <tr>
+            <td width="10%">2022</td>
+            <td>Technological change and labour market opportunities (Academy of Science and Literature Mainz, Germany)</td>
+        </tr>
+        <tr>
+            <td width="10%">2019</td>
+            <td>Causal inference in the social sciences (University of Leipzig, Germany) </td>
         </tr>
     </tbody>
 </table>
