@@ -74,8 +74,13 @@ author_profile: true
     <tbody>
         <tr>
             <td width="10%">2025</td>
-            <td>Wissenschaftsbotschafterin at the OEAD
+            <td>Science Embassador (Wissenschaftsbotschafterin) at the OEAD
              <a href="https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/706">Link</a>
+            </td>
+        </tr>
+         <tr>
+            <td width="10%">2024</td>
+            <td>BeSt-Messe: Career, Education, and Training Fair
             </td>
         </tr>
         <tr>
