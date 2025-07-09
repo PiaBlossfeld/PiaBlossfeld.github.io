@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences, Workshops and Public Outreach"
+title: "Conferences and Public Outreach"
 permalink: /workshopsandconferences/
 author_profile: true
 ---
