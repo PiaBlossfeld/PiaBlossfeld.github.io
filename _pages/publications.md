@@ -13,7 +13,7 @@ Blossfeld, P. N. (2018). *Changes in Inequality of Educational Opportunity. The 
 Blossfeld, P. N. (2014). *Neue und alte Ungleichheiten. Inter- und intragenerationale Mobilitätsprozesse von Männern.* Opladen: Budrich Verlag [Link](https://shop.budrich.de/produkt/neue-und-alte-soziale-ungleichheiten/?v=3a52f3c22ed6).
 
 
-**Editorial**
+**Editorials**
 
 Blossfeld P. N., Scherer S. and Uunk W. (2024). Editorial: Changes in educational homogamy and its consequences. *Comparative Population Studies 49: 437-466* [Link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/620).
 
