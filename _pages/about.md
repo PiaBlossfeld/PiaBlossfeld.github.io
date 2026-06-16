@@ -34,7 +34,9 @@ Sociology of education; stratification, class and mobility; social structure and
 
 |                       |                                 |                                           |
 |-----------------------|---------------------------------|-------------------------------------------|
+| 09/2026               | Visiting Researcher            | GESIS (DE)                               |
 | 11/2025               | Visiting Researcher            | Vrije Universiteit Amsterdam (NL)        |
+| 09/2025               | Visiting Researcher            | GESIS (DE)                               |
 | 04/2025               | Visiting Researcher            | Masaryk University (CZ)                  |
 | 12/2024               | Visiting Researcher            | GESIS (DE)                               |
 | 09/2015 - 11/2015     | Visiting Researcher            | Sciences Po (FR)                         |
