@@ -29,8 +29,6 @@ Structures and Changes in Modern Societies (Undergraduate Level): Fall 2023 (2x)
 
 ## Teaching Qualifications
 
-Saxon Higher Education Teaching Certificate: 2019
-
-Experience in BA-/MA- seminars and lectures
-
-Experience in Supervision and Examination of Bachelor and Master Theses
+- Saxon Higher Education Teaching Certificate: 2019
+- Experience in BA-/MA- seminars and lectures
+- Experience in Supervision and Examination of Bachelor and Master Theses
