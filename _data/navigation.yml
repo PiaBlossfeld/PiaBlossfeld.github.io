@@ -1,6 +1,7 @@
 # main links links
 main:
-    
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
     url: /publications/
 
@@ -8,11 +9,8 @@ main:
     url: /projects/ 
     
   - title: "Teaching"
-    url: /teaching/ 
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /teaching/     
+  
   - title: "Conferences and Workshops"
     url: /workshopsandconferences/
 
