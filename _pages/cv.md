@@ -7,13 +7,9 @@ redirect_from:
   - /resume
 ---
 
-A PDF version of my detailed CV is in preparation!
-
 ## Research Interests
 
 Sociology of education; stratification, class and mobility; social structure and social change; life course research; sociology of labour markets; sociology of work and occupations; sociology of the middle class; gender inequality; homogamy; statistical methods; longitudinal methods of social research; cross-national comparisons; welfare regimes
-
-
 
 ## Academic Positions
 
@@ -49,3 +45,6 @@ Sociology of education; stratification, class and mobility; social structure and
 |-----------------------|---------------------------------|
 | 04/2020 - present     | Member of the Young Academy Mainz, Academy of Science and Literature Mainz |
 | 10/2013 - 10/2016     | Doctoral Scholarship of the German National Academic Foundation |
+
+## Detailed CV
+A PDF version of my detailed CV is in preparation!
