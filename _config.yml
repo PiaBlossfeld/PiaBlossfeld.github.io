@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pia N. Blossfeld"
 title_separator          : "-"
 name                     : &name "Pia Blossfeld"
-description              : &description "Postdoctoral Researcher" "University of Innsbruck"
+description              : &description "Postdoctoral Researcher at the University of Innsbruck"
 url                      : https://piablossfeld.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PiaBlossfeld/PiaBlossfeld.github.io"
@@ -64,9 +64,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Pia N. Blossfeld" 
+  name             : "Pia N. Blossfeld" 
   avatar           : "img_0032.jpg"
-  bio              : "I am a PostDoc at the University of Innsbruck"
+  bio              : "Postdoctoral Researcher " "University of Innsbruck"
   employer         : "University of Innsbruck"
   email            : "Pia.Blossfeld[at]uibk.ac.at"
   institutional website : "http://sozweb.sozphil.uni-leipzig.de/de/personen/dr-pia-blossfeld.html"
