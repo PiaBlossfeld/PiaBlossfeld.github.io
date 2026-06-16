@@ -7,7 +7,7 @@ author_profile: true
 <h2>Public Outreach</h2>
 <h3>Visit as a Science Ambassador to the Volksschule Goldegg in Austria in May 2026</h3>
 <p>In this short workshop, Year 4 students were introduced to the concepts of social inequality and social justice through a game. They also learned how important social background is for educational opportunities.</p>
-<img src="/images/IMG_9199.jpg" style="max-width: 50%; height: auto;" alt="Workshop an der Volksschule Goldegg">
+<img src="/images/IMG_9199.jpg" width="600" height="auto" alt="Workshop an der Volksschule Goldegg">
 
 <h3>List of Further Activities</h3>
 <table>
