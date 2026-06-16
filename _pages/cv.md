@@ -46,5 +46,3 @@ Sociology of education; stratification, class and mobility; social structure and
 | 04/2020 - present     | Member of the Young Academy Mainz, Academy of Science and Literature Mainz |
 | 10/2013 - 10/2016     | Doctoral Scholarship of the German National Academic Foundation |
 
-## Detailed CV
-A PDF version of my detailed CV is in preparation!
