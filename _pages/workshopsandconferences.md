@@ -9,12 +9,12 @@ author_profile: true
 <table>
     <tbody>
         <tr>
-            <td width="10%">March</td>
-            <td>GEBF Conference (TUM, Germany)</td>
-        </tr>
-        <tr>
             <td width="10%">April</td>
            <td>ECSR Life Course and Social Stratification Conference (University of Trento, Italy) </td>
+        </tr>
+        <tr>
+            <td width="10%">March</td>
+            <td>GEBF Conference (TUM, Germany)</td>
         </tr>
     </tbody>
 </table>
