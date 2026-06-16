@@ -9,7 +9,7 @@ author_profile: true
 <p>In this short workshop, Year 4 students were introduced to the concepts of social inequality and social justice through a game. They also learned how important social background is for educational opportunities.</p>
 <img src="/images/IMG_9199.jpg" width="600" height="auto" alt="Workshop an der Volksschule Goldegg">
 
-<h3>List of Older Activities</h3>
+<h3>List of Past Activities</h3>
 <table>
     <tbody>
         <tr>
