@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A PDF version of my CV is in preparation!
+A PDF version of my detailed CV is in preparation!
 
 ## Research Interests
 
