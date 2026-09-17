@@ -16,3 +16,10 @@ Project description:<br /> In recent years, many economic and sociological studi
 Publications:<br /> Blossfeld P. N., Lengfeld H. and Kley F. (2025). Verängstigt und geschrumpt? Zur Vermessung der Lage der Mittelschicht in Deutschland. In: N. Baur and J. Beyer (Eds.): Wirtschaft und soziale Ungleichheit. Wiesbaden: Springer VS [Link](https://link.springer.com/content/pdf/10.1007/978-3-658-46565-0.pdf#page=47).
 
 A Special Issue in *International Sociology* is in preparation! 
+
+## Changes in inequality of opportunity
+Principal investigator: Dr. Pia Blossfeld<br />
+Project duration: 2013-2026<br />
+Funding agency: German National Academic Foundation (Studienstiftung des deutschen Volkes)
+
+Project description:<br /> This project examined the permeability of the East and West German education systems from a long-term perspective. It was in particulary interested in a) how the movements of children through the educaiotnal system have changed and b) how educational inequalities have changed in this process using data from the National Educational Panel Study (NEPS). 
